@@ -1,0 +1,12 @@
+name = input ("Enter your Full Name:")
+age = input ("Enter your Age:")
+course = input ("Enter your Course:")
+section = input ("Enter your Section")
+favorite_food = ("Enter Your Favorite_food:")
+
+print ("\n==== STUDENT INFOTMATION ====")
+print ("Name:", 'renzo')
+print ("Age:", 18)
+print ("Course:", 'BSIT')
+print ("Section:", '1BSIT-S10')
+print ("Favorite_Food:", 'carbonara')

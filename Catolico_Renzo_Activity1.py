@@ -1,0 +1,7 @@
+print ("\n==== STUDENT INFOTMATION ====")
+print ("Name:", 'renzo')
+print ("Age:", 18)
+print ("Course:", 'BSIT')
+print ("Section:", '1BSIT-S10')
+print ("Adress",'Purok2,Sta Arcadia,Cabanatuan City,Nueva Ecija,Philippines,3100')
+print ("Favorite_Food:", 'carbonara')
